@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goals-webiste/static/css/main.d205dbc6.chunk.css",
+    "main.js": "/goals-webiste/static/js/main.afa92d36.chunk.js",
+    "main.js.map": "/goals-webiste/static/js/main.afa92d36.chunk.js.map",
+    "runtime-main.js": "/goals-webiste/static/js/runtime-main.9f024c97.js",
+    "runtime-main.js.map": "/goals-webiste/static/js/runtime-main.9f024c97.js.map",
+    "static/js/2.67c86100.chunk.js": "/goals-webiste/static/js/2.67c86100.chunk.js",
+    "static/js/2.67c86100.chunk.js.map": "/goals-webiste/static/js/2.67c86100.chunk.js.map",
+    "static/js/3.de25605d.chunk.js": "/goals-webiste/static/js/3.de25605d.chunk.js",
+    "static/js/3.de25605d.chunk.js.map": "/goals-webiste/static/js/3.de25605d.chunk.js.map",
+    "index.html": "/goals-webiste/index.html",
+    "static/css/main.d205dbc6.chunk.css.map": "/goals-webiste/static/css/main.d205dbc6.chunk.css.map",
+    "static/js/2.67c86100.chunk.js.LICENSE.txt": "/goals-webiste/static/js/2.67c86100.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f024c97.js",
+    "static/js/2.67c86100.chunk.js",
+    "static/css/main.d205dbc6.chunk.css",
+    "static/js/main.afa92d36.chunk.js"
+  ]
+}
