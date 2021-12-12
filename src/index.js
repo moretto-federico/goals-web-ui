@@ -20,7 +20,7 @@ initialize();
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename="/goals-web-ui">
+    <Router>
       <Routes>
         <Route index path="/" element={<Home />} />
         <Route path="/running" element={<Running />} />
