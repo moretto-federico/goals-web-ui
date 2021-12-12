@@ -1,0 +1,30 @@
+.goals-page--settings {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+
+.goals-page--settings button {
+  min-width: 10em;
+  margin: 2em 1em;
+}
+
+.goals-export-csv {
+  display: none;
+}
+
+.goals-settings__import {
+  display: flex;
+  width: 75%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 1em;
+}
+
+.goals-settings__import textarea {
+  width: 100%;
+  height: 20em;
+}

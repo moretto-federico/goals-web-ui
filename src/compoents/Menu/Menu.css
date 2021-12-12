@@ -1,0 +1,11 @@
+.goals-menu__list {
+  z-index: 1;
+  position: absolute;
+  right: 0;
+  padding: 1em 1em;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.goals-menu__list .goals-toolbar-link {
+  padding: 0.5em 0;
+}

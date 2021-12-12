@@ -1,0 +1,47 @@
+.goals-page--new-session {
+  width: auto;
+  background-color: var(--background-color-2);
+  background-clip: content-box;
+  padding: 1em 2em;
+}
+
+.goals-page--new-session svg {
+  align-self: center;
+  font-size: 3em;
+  padding: 0.3em;
+}
+
+.goals-tracking {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+
+.goals-create-new-session {
+  margin: 1em 2em;
+  padding: 1em;
+}
+
+.form-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+  margin: 0.5em 0;
+}
+.form-item input {
+  height: 2em;
+  border: none;
+  box-shadow: none;
+  border-radius: 0.3em;
+  background-color: #ddd;
+  padding: 0.5em;
+}
+
+.form-footer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 1em 2em;
+}

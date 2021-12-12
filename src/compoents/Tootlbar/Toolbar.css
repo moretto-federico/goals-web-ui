@@ -1,0 +1,60 @@
+.goals-toolbar {
+  --icon-size: 2em;
+
+  background-color: var(--background-color-2);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1em 2em;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.goals-toolbar .goals-menu__list {
+  background-color: var(--background-color-2);
+}
+
+.goals-toolbar svg {
+  height: var(--icon-size);
+  width: var(--icon-size);
+}
+
+.goals-toolbar__logo,
+.goals-toolbar__links,
+.goals-toolbar__menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.goals-toolbar__links .goals-toolbar-link {
+  padding: 0 0.5em;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media screen and (max-width: 600px) {
+  .goals-toolbar__links {
+    display: none;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media screen and (min-width: 600px) and (max-width: 767px) {
+  .goals-toolbar__links {
+    display: none;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .goals-toolbar__menu-links {
+    display: none;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+  .goals-toolbar__menu-links {
+    display: none;
+  }
+}

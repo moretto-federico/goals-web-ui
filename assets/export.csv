@@ -1,0 +1,11 @@
+type,date,description,distance,duration,elevationGain,id
+running,2021-12-08T20:06:47.825Z,Rifugio Casel sora el Sass - Giovanni Angelini e Belvedere sora el sass,10000,18000,,9a15f198-cca4-4839-ab99-19e7def1836c
+running,2021-12-08T20:04:25.245Z,pista ciclabile concordia-porto solo asfalto x 2,9200,3124,,4fa6e149-964d-4027-9922-5731d3d177e6
+trekking,2021-12-08T20:02:32.518Z,Rifugio Sennes%%COMMA%% Malga Ra Stua%%COMMA%% Rifugio Fodara Vedla,18000,21600,800,4577d296-19cb-4dd3-a28f-4de227b1aa9d
+climbing,2021-12-08T16:11:42.042Z,palestra portogruaro,,9000,,55d340d1-9a86-4162-bbea-162d5ac123e7
+fitness,2021-12-08T16:09:30.101Z,Spalle%%COMMA%% Addominali,,3600,,8b795d9e-5b9e-4593-a410-b79621f3e262
+fitness,2021-11-01T23:00:00.000Z,Spalle%%COMMA%% Addominali,,3600,,f58d573d-4f76-4027-9705-66093e1e018a
+running,2021-10-24T22:00:00.000Z,,11000,3926,,4f632a3c-537a-4672-bae8-41314371f092
+
+type,date,description,distance,duration,elevationGain,id
+trekking,2021-12-08T20:02:32.518Z,Rifugio Sennes%%COMMA%% Malga Ra Stua%%COMMA%% Rifugio Fodara Vedla,18000,21600,800,4577d296-19cb-4dd3-a28f-4de227b1aa9d
