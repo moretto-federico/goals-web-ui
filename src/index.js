@@ -22,7 +22,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route index path="/" element={<Home />} />
         <Route path="/running" element={<Running />} />
         <Route path="/trekking" element={<Trekking />} />
         <Route path="/climbing" element={<Climbing />} />
